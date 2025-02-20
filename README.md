@@ -10,9 +10,13 @@ Ele inclui um sistema de carregamento visual 🌚 e permite a seleção interati
 ## 🔧 Funcionalidades
 
 ✅ **Download de vídeos e áudios** do YouTube.
+
 ✅ **Transcrição do áudio** usando Whisper AI.
+
 ✅ **Criação de documentos Word e PDF** com os dados extraídos.
+
 ✅ **Organização de arquivos** em pastas automáticas.
+
 ✅ **Interface interativa** com feedback dinâmico.
 
 ---
